@@ -1,2 +1,7 @@
-# Portfolio_Website
- Project created in a classroom context with HTML, CSS, JavaScript
+Website criado em contexto prático de aula.
+
+Ferramentas utilizadas:
+- HTML
+- CSS
+- JavaScript
+
