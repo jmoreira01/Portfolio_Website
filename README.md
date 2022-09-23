@@ -1,6 +1,6 @@
-Website criado em contexto prático de aula.
+Website created in a practical classroom context.
 
-Ferramentas utilizadas:
+Tools used:
 - HTML
 - CSS
 - JavaScript
