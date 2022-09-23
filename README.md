@@ -1,6 +1,6 @@
 Website created in a practical classroom context.
 
-Tools used:
+Used tools:
 - HTML
 - CSS
 - JavaScript
