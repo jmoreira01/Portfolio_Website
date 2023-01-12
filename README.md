@@ -15,7 +15,7 @@ Skills section
 Projects section
 Contact form
 
-##How to Run
+## How to Run
 Download the project files.
 Open the index.html file in your preferred web browser.
 Browse the website and explore the different sections.
