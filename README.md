@@ -8,7 +8,7 @@ HTML
 CSS
 Bootstrap
 
-##Features
+## Features
 Responsive design for optimal viewing on different devices
 About me section
 Skills section
