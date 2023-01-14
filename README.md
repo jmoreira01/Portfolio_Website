@@ -1,7 +1,7 @@
 ## Personal Portfolio Website
 
 ## Description
-This project is a proposal for a personal portfolio website. It is my first project developed with practice in web development. The website showcases my skills and experiences, and provides a way for potential employers or clients to contact me.
+This project is personal portfolio website. It is my first project developed with practice in web development. The website showcases my skills and experiences, and provides a way for potential employers or clients to contact me.
 
 ## Technologies Used
 HTML
